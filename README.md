@@ -7,9 +7,9 @@ Rebeca Sánchez Pérez
 - [PHP8.1]
 - [XDebug3.1.2]
 ## Descripcion
-Documentacion de la asignatura de despliegue de aplicaciones web
+Documentacion del indice DAW
 ## Funcionalidades
 ## Entorno de desarrollo
-[http://daw204.isauces.local/204DAWProyectoDAW/indexProyectoDAW.php](http://daw204.isauces.local/204DAWProyectoDAW/indexProyectoDAW.php)
+[http://daw204.isauces.local/index.html](http://daw204.isauces.local/index.html)
 ## Entorno de explotacion
-[https://daw204.ieslossauces.es/204DAWProyectoDAW/indexProyectoDAW.php](https://daw204.ieslossauces.es/204DAWProyectoDAW/indexProyectoDAW.php)
+[https://daw204.ieslossauces.es/](https://daw204.ieslossauces.es/)
