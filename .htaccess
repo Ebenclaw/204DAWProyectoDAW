@@ -1,5 +1,5 @@
 DirectoryIndex indexProyectoDAW.php
-ErrorDocument 404 /error/404.html
+ErrorDocument 404 /204DAWProyectoDAW/error/404.html
 Redirect 301 /educa https://www.educa.jcyl.es/es 
 # RewriteEngine on
 # RewriteRule ^/DAW/ 204DAWProyectoDAW/indexProyectoDAW.php [R=301]
