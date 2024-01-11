@@ -15,7 +15,7 @@
         <h1>Despliegue de aplicaciones Web - DAW</h1>
     </header>
     <main>
-        
+        <object type="application/pdf" data="doc/EstudioTema2.pdf" ></object>
     </main>
     <footer>
         <div id="derechos">2023-2024 © Todos los derechos reservados: <a href="../index.html">Rebeca Sánchez Pérez</a></div>
