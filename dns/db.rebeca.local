@@ -2,17 +2,20 @@
 ; BIND data for rebeca.local
 ;
 $TTL	604800
-@	IN	SOA	rsp-used.rebeca.local. rebecasanper1.educa.jcyl.es. (
+@	IN	SOA	rsp-ldap.rebeca.local. rebecasanper1.educa.jcyl.es. (
 			      1		; Serial
 			 604800		; Refresh
 			  86400		; Retry
 			2419200		; Expire
 			   3600 )	; Negative Cache TTL
 ;
-@		IN	NS	rsp-used.rebeca.local.
+@		IN	NS	rsp-ldap.rebeca.local.
 ; Registros Host
 @		IN	A	192.168.3.204
 rsp-used	IN	A	192.168.3.204
+rsp-ldap	IN	A	192.168.3.104
 ;Registro Alias
 daw201		IN	CNAME	rsp-used.rebeca.local.
 daw202		IN	CNAME	rsp-used.rebeca.local.
+daw204		IN	CNAME	rsp-used.rebeca.local.
+login		IN	CNAME	rsp-used.rebeca.local.

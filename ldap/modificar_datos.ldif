@@ -1,0 +1,13 @@
+#añadir el movil al usuario rebeca
+dn: uid=rebeca,ou=superior,dc=rebeca,dc=local
+add: mobile
+Mobile: 654321987
+
+dn: uid=amor,ou=superior,dc=rebeca,dc=local
+delete:mail
+
+dn: uid=amor,ou=superior,dc=rebeca,dc=local
+changetype: modify
+replace: mail
+mail: amor@gmail.com
+
